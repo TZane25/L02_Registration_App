@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RegistrationApp</string>
+    <string name="registration_form">REGISTRATION FORM</string>
+    <string name="Registration_form">Registration Form</string>
+    <string name="welcome_to_adventure_learning_club">Welcome to Adventure Learning Club!</string>
+    <string name="last_name">Last name</string>
+    <string name="first_name">First name</string>
+    <string name="full_name">full name</string>
+    <string name="student_id">Student Id :</string>
+</resources>
